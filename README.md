@@ -1,0 +1,1 @@
+# change.power.and.sleep.settings.in.windows
