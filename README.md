@@ -1,6 +1,6 @@
 # change power and sleep settings in windows
 
-[![change power and sleep settings in windows](get-detail.png)](https://computersolve.com/change-power-and-sleep-settings-in-windows/)
+[![change power and sleep settings in windows](get-detail.png)](https://icncomputer.com/change-power-and-sleep-settings-in-windows/)
 
 Windows comes with an idle feature which puts a computer into Sleep Mode to save energy and battery life.  In Sleep Mode, the computer halts all the activities, and the state is saved. When you are up to handle the system, it wakes up to the state as you left. In this guide, we are sharing how to change sleep settings in Windows 11/10.
 
